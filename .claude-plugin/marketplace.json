@@ -1,0 +1,18 @@
+{
+  "name": "ola-cruise-excursion-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "Cruise Excursion Options 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ola-cruise-excursion",
+      "source": "./plugins/ola-cruise-excursion",
+      "description": "Explore excursion options available for cruise travelers at various ports, enhancing your travel experience.",
+      "version": "0.1.0"
+    }
+  ]
+}
