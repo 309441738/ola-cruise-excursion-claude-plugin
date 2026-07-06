@@ -1,0 +1,8 @@
+{
+  "name": "ola-cruise-excursion",
+  "description": "Explore excursion options available for cruise travelers at various ports, enhancing your travel experience.",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
